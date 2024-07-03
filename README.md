@@ -1,0 +1,1 @@
+Write a calculator that takes: the first number, the second number, the operation required to perform (+, -, * or /). Depending on the symbol, one of 4 corresponding methods is called, which performs the operation and displays the result.
